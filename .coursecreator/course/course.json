@@ -1,0 +1,63 @@
+{
+  "course_version" : 1,
+  "environment" : "unittest",
+  "summary" : "This is an introductory Python course.\n- The course will be most beneficial for beginner-level Python learners.\n- The course covers core Python features.\n- It contains hands-on examples of Python code implementation and exercises to practice new skills.\n- The course is based on the author's personal experience in Python development.",
+  "title" : "Python Course",
+  "programming_language" : "Python",
+  "language" : "en",
+  "course_type" : "Marketplace",
+  "vendor" : {
+    "name" : "Admin"
+  },
+  "items" : [
+    {
+      "id" : 2065180001,
+      "title" : "lesson1",
+      "task_list" : [
+        {
+          "id" : 513961418,
+          "name" : "task1",
+          "files" : {
+            "task.py" : {
+              "name" : "task.py",
+              "placeholders" : [
+                {
+                  "offset" : 67,
+                  "length" : 12,
+                  "possible_answer" : "QU5ZPJ02rgL+gU443Cz3YQ==",
+                  "placeholder_text" : "# TODO давай"
+                }
+              ],
+              "is_visible" : true,
+              "text" : "jYDdsLbeYzADkRhizR9Kg4f8743FJLgxtWiV2TQv+NfMKYMPKnrBXaQOoPKDsI/YmIncpNZsFkqrdcWjZBGuPYg1w3FZ1DZA06v9ZdYnO723zUEtAw4+8fFCE7z8FAEilgEaW7O+rKwsJdkTq5TiQA=="
+            },
+            "tests/test_task.py" : {
+              "name" : "tests/test_task.py",
+              "placeholders" : [ ],
+              "is_visible" : false,
+              "text" : "XIlL2u+4gqNTqO7La77YdQTjn1YHMq4gonGgZk0sm4e2OyikErDYBXQftY1lQu6Db7Nv/Emb6F6Q+VcO/Tt5v9QB3Mafnk48sFDMfWyYZazkugqi2wmLamjAVb7+k2YBHCT4GjVm7/XyGkMqaMOQuxjOsgNcFftcW/mdjNl8UbULUmc+u9ccd0fjiFWqFl4DLfjoVESHh61LaXmXkTOAXT5nfMsAxt36kJ12N6jzjcFeVc+VZuJ3c+4MZdJSjHMJ2+cIn8xbCgonAIzmsBKBXl+vkBlZjmaEFlb/l8ydSY0="
+            },
+            "__init__.py" : {
+              "name" : "__init__.py",
+              "placeholders" : [ ],
+              "is_visible" : false,
+              "text" : "BPrPxsoPO0ddRfXxWyDgbA=="
+            },
+            "tests/__init__.py" : {
+              "name" : "tests/__init__.py",
+              "placeholders" : [ ],
+              "is_visible" : false,
+              "text" : "BPrPxsoPO0ddRfXxWyDgbA=="
+            }
+          },
+          "description_text" : "суммируй плез\n",
+          "description_format" : "MD",
+          "task_type" : "edu"
+        }
+      ],
+      "type" : "lesson"
+    }
+  ],
+  "version" : 14,
+  "edu_plugin_version" : "2022.10-2022.2-1334"
+}
